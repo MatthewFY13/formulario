@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: #666;
+}
+
+
+.formulario{
+    width: 400px;
+    background: cornflowerblue;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 8px;
+    font-family: 'Poppins';
+    color: #fff;
+}
+.formulario h3, h4{
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+.formulario .texto{
+    font-family: 'Poppins';
+}
+.prueba1{
+    width: 100%;
+    background: cornflowerblue;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 2px solid blue;
+    font-family: 'Poppins';
+    font-size: 18px;
+    color: #fff;
+}
+.formulario p{
+    height: 20px;
+    text-align: center;
+    font-size: 20px;
+}
+.formulario .boton{
+    width: 100%;
+    background: crimson;
+    border: 2px solid crimson;
+    padding: 12px;
+    color: #fff;
+    margin: 16px 0;
+    font-size: 16px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+.formulario .boton:hover{
+    color: #fff;
+    background: none;
+}
