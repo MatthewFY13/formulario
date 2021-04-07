@@ -5,19 +5,15 @@
 }
 
 body{
-    background: #A05372;
+    background: #5373A0;
 }
 
-h1{
+.title h1{
     color: #fff;
     text-align: center;
     font-size: 50px;
     font-weight: 800;
     font-family: 'Poppins';
-    transition: all 0.3s ease;
-}
-h1:hover{
-    color: #0A024D;
 }
 
 .formulario{
