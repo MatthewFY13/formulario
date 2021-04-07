@@ -5,7 +5,7 @@
 }
 
 body{
-    background: #222;
+    background: #A05372;
 }
 
 h1{
@@ -17,12 +17,12 @@ h1{
     transition: all 0.3s ease;
 }
 h1:hover{
-    color: cornflowerblue;
+    color: #0A024D;
 }
 
 .formulario{
     width: 400px;
-    background: cornflowerblue;
+    background: #0A024D;
     padding: 30px;
     margin: auto;
     margin-top: 100px;
@@ -39,11 +39,11 @@ h1:hover{
 }
 .prueba1{
     width: 100%;
-    background: cornflowerblue;
+    background: #0A024D;
     padding: 10px;
     border-radius: 4px;
     margin-bottom: 16px;
-    border: 2px solid blue;
+    border: 2px solid #63E1D0;
     font-family: 'Poppins';
     font-size: 18px;
     color: #fff;
@@ -55,8 +55,8 @@ h1:hover{
 }
 .formulario .boton{
     width: 100%;
-    background: crimson;
-    border: 2px solid crimson;
+    background: #EB7740;
+    border: 2px solid #EB7740;
     padding: 12px;
     color: #fff;
     margin: 16px 0;
