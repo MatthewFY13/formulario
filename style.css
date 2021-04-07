@@ -9,6 +9,7 @@ body{
 }
 
 .title h1{
+    text-align: center;
     color: #fff;
     text-align: center;
     position: absolute;
